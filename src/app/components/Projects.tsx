@@ -11,9 +11,9 @@ const Projects = () => {
   const projects = [
     {
       title: 'Club Management System',
-      description: 'A full-stack platform designed to simplify club operations, event management, and student engagement within universities and organizations.',
-      techStack: ['React.js', 'Flask', 'PostgreSQL', 'Tailwind CSS', 'JWT', 'Material UI'],
-      github: 'https://github.com/pkumar064/The_Clubs',
+      description: 'The Clubs is a full-stack club and event management platform (React/TypeScript frontend, Flask/Python backend) built for universities. It centralizes club discovery, membership management, event creation with an approval workflow, attendance tracking, notifications, and analytics — including a club leaderboard and one-click PDF performance reports — with role-based access for admins, club heads, and students.',
+      techStack: ['React', 'TypeScript', 'Tailwind CSS', 'Vite', 'Recharts', 'Flask', 'JWT', 'PostgreSQL', 'Docker', 'Nginx', 'REST APIs'],
+      github: 'https://github.com/Pradeep-7142/Club_management',
       live: '#',
       gradient: 'from-blue-500 to-cyan-500',
     },
