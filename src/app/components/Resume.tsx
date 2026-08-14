@@ -89,7 +89,7 @@ const Resume = () => {
               </div>
 
               <div className="mt-8 text-center text-sm text-gray-500">
-                Last updated: May 2026
+                Last updated: August 2026
               </div>
             </div>
           </div>
